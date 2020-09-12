@@ -28,7 +28,7 @@ twitter_username: fzhang00
 github_username:  fzhang00
 
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
